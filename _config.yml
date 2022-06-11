@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
   <br /><br />
   Arcade Badgers Limited (SC448825)
   <br />
-  37 Yeamans Lane, Dundee, DD2 3EJ
+  10 Braes of Gray Road, Dundee, DD2 5FQ
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:year/:month/:day/:title.html
 url: "http://www.arcadebadgers.co.uk" # the base hostname & protocol for your site
@@ -19,6 +19,7 @@ github_username:  ArcadeBadgers
 # Build settings
 markdown: kramdown
 include: [ _pages ]
+plugins_dir: [ _plugins ]
 collections: 
   releases:
     output: true

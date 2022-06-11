@@ -1,0 +1,17 @@
+---
+layout: post
+author: "Stuckie"
+title:  "Yargh!"
+date:   2013-10-03 22:24:00
+categories: yargh new devlog
+---
+
+We’ve started on a new game - Yargh! - and in the interests of transparency, we shall be providing a dev blog on our progress.
+
+So, how far are we into this? A few days work on the engine and some clean-up to the original graphics! Yes, Yargh! is another Ludum Dare experiment - specifically for LD17 [http://www.ludumdare.com/compo/ludum-dare-17/?action=preview&uid=267](http://www.ludumdare.com/compo/ludum-dare-17/?action=preview&uid=267) - which didn’t fare too well as there was no game play whatsoever! This time, there will be game play.
+
+Yargh! is a simple RTS. You have ships, and pirates. You have docks, forts and mines. And you have a time limit to capture as many docks and forts, and acquire as much gold as possible. Blowing up ships and fighting other pirates along the way just so happens to be a bonus!
+
+We’re writing this “natively” this time, rather than directly in HTML5. So we shall see how that works out for us. We’ll be posting more updates as we get on with things.
+
+> Stuckie

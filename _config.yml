@@ -1,0 +1,24 @@
+# Site settings
+title: Arcade Badgers
+email: contact@arcadebadgers.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+  Arcade Badgers Limited is a small independent games developer based in Dundee, Scotland.
+  <br />
+  We have experience with multiple console, desktop and mobile platforms.
+  And we are ready to bring you new and exciting games!
+  <br /><br />
+  Arcade Badgers Limited (SC448825)
+  <br />
+  37 Yeamans Lane, Dundee, DD2 3EJ
+baseurl: "" # the subpath of your site, e.g. /blog/
+permalink: /:year/:month/:day/:title.html
+url: "http://www.arcadebadgers.co.uk" # the base hostname & protocol for your site
+twitter_username: ArcadeBadgers
+github_username:  ArcadeBadgers
+
+# Build settings
+markdown: kramdown
+include: [ _pages ]
+collections: 
+  releases:
+    output: true

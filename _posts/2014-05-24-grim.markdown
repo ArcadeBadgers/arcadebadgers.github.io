@@ -1,0 +1,24 @@
+---
+layout: post
+author: "Stuckie"
+title:  "Grim"
+date:   2014-05-24 17:19:00
+categories: grim release
+---
+
+So, we’ve been busy working away on a little game called Grim!
+
+It’s a bit of a remake of our Ludum Dare entry - Grim’s Christmas List - with 100 levels, four player support, and chained scoring. It’s a pure arcade game at it’s heart, but there are three difficulty levels to keep you going - Easy, Normal and Arcade.
+
+Here’s the blurb:
+
+Grim is in trouble. Mama is not happy with him after going on his little outburst at Christmas; reaping souls willy-nilly and upsetting the order of the realms. He’s already upset Him downstairs, and if he doesn’t put right the mess he’s made, Him upstairs will be having a word too!
+
+Help Grim through 100 levels of Classic Arcade Action! Reap the lost souls stuck in the wrong realm before they turn bad! Watch out for the other inhabitants of the realm, who aren’t best pleased with what you’ve done!
+
+And you better get it done before bedtime, or Mama Grim will be reaping your soul, instead!
+
+<iframe src="//itch.io/embed/7676?dark=true&amp;linkback=true" width="552" height="167" frameborder="0"></iframe>
+
+
+> Stuckie

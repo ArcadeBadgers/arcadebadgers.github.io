@@ -1,0 +1,56 @@
+---
+layout: post
+author: "Steven"
+title:  "2017 in Review"
+date:   2017-12-31 14:30:00
+categories: review
+---
+
+2017 has been an interesting year.
+
+We started out a bit low as Snake-A-Roid wasn't doing very well at all, and we weren't sure what to do with it. We also had next to no time to work on things, so we had given ourselves one more year to try and turn things around.
+Now it's the end of the year, and we still haven't turned things around, Snake-A-Roid is in the process of a third rewrite, but we released a few jam experiments, and have managed to carve off some time to get things done again.
+On top of that, we went to 4TG Game Con and showed off Snake-A-Roid as it was then, which went down really well! But recently, my base unit died, and the badger laptop isn't doing so well either.. so it's certainly been swings and roundabouts.
+
+So let's focus on the good.
+
+We went to 4TG!
+We actually got asked about this back in January, and I felt it would be a good motivator to redo Snake-A-Roid and re-release it in a much better shape. I kindof rushed it out originally, and only really added some arenas to it. For 2.0, we went back, added colour - but kept the clean vector style - tuned the power-ups, added some enemies, bosses, more music and a couple of extra modes. It's turning out well, but needs another month of polish and tidying up before it's fit for release. I actually tasked out everything on Trello and it came to about 70 hours of work.. it's just finding those 70 hours in between everything else going on! But we'll get there, and it'll be released on Steam and Itch for Windows, Linux and macOS. And hopefully, a console platform a bit later on!
+
+We did some jams!
+We took part in a few jams this year.. and released for two and a half...
+First up was the 1-bit clicker jam, where we went back a bit to when we were trying to do January Prototypes, and picked out Dungeon Card Adventures to have a look at. This ended up as [Mini Dungeon Adventures][MiniDungeonAdventures] and seemed to go down quite well. Though I did take the "mini" to heart a little bit too much, as the graphics are rather tiny. Something I fixed a bit later with a 720p download release. However, the base idea worked out well, and we've filed it away as something to return to later.
+Then we did Ludum Dare! Sortof... we took part in Ludum Dare 38 but didn't get it fully functional in time, so we released [Pocket Planets][PocketPlanets] after the Jam was done so as not to take away from the work that everyone else did. The interesting thing is that although it didn't get released in time, it's been one of the most popular things we've released, along with Mini Dungeon Adventures. Go figure!
+Finally, we took part in LowRezJam again, and threw [Froak!][Froak] together... it was a bit more thrown together than we would've liked (there's a particularly nasty bug in there that gets things confused as to where they are on screen, but it doesn't always appear, and the debugger vary rarely shows it...) It's also done well.
+I did also start Ludum Dare 40... the source for what I was playing with is up on my Ludum Dare GitHub repo but.. it didn't get very far at all.. think I spent a couple of hours on it, and that was about it. Had an idea, quickly threw something together, but ran out of time to fully realise it. Oh well, there's always next year!
+There's also [Blast Zone][BlastZone].. which is a Defender-style game I started over a few lunchtimes to test some scrolling routines in GameMaker Studio 2. It draws things manually rather than using the view/camera system. I've not progressed much on it, but I'm hoping to add a bunch of things to it over the coming year, before releasing the source.
+
+Snake-A-Roid 2.0 ticks along!
+Another year of work on-and-off goes into [Snake-A-Roid][SnakeARoid]. It had a massive rewrite for 4TG as described above, and we've been poking at it here and there throughout the year. It was hoped to have had it out for August, but we missed that.... same with December... so it's looking likely for a February release. There isn't too much to do, but it's fiddly and "feely" ... as in, does it feel *right* that this thing spawns there at this time? Is this boss providing enough of an opening for a player to attack? Is it too much of a bullet sponge? etc... all gameplay tweaks. There's a couple of actual features still to go in, but they're relatively minor and the majority of people will skip them as it's tutorial stuff.
+
+On to the bad...
+
+The base unit gave up.
+My desktop machine was about 10 years old... and something finally went. Ordinarily, I'd have had spare ram and things to check to see what went. The last thing on it that went was the PSU, but that works fine - the machine boots, but BIOS doesn't POST. I've tried resetting BIOS but it didn't do anything. It's been needing an upgrade for a while now, and it's obviously got bored waiting for one. Oh well, these things happen!
+
+The laptop is ill!
+As if the base unit going wasn't bad enough... the power adapter fused into the power socket of the laptop on the same night! I managed to get it out, but it took the protective casing round the pins with it.. so keeping the adapter seated properly is rather tricky now. It still works ( as I'm using it just now! ) but trying to get it to charge can be an issue. It's also nowhere near as powerful as the base unit was, but it's usable to finish off Snake-A-Roid at least.
+
+No money!
+The Badgers are still making a loss. I'm hoping that releasing Snake-A-Roid will at least give some money back into the business so we can look towards bigger and better things, but we'll see.. on the plus side, there's a few money issues that end in 2018 that'll put things on a better standing. The Princes Trust loan is fully paid back, for instance. So there is that to look forward to, as it means it'll be less of a money sink.
+
+So, onto what 2018 could bring!
+
+With any luck, Snake-A-Roid 2.0 will finally be released! Aiming for February on Steam and itch.. and perhaps others if possible. We have it running on a console platform too, but it needs a bit more optimisation, as well as all the certification stuff that surrounds it, so it may not come until March.
+I'm also going to look at doing smaller games again... Snake-A-Roid 2.0 ended up with a bit of a feature knee-jerk as 1.0 was "just some arenas" from the Mini Ludum Dare original. I also put myself into a bit of a hole in regard to there currently being three versions of the same game.. the original Mini Ludum Dare version, 1.0 and 2.0 ... so a demo, a free version and a commercial version. Let's be a bit more sensible next time and name things differently, as I'm going to have to shuffle around the Snake-A-Roid projects a bit on itch.
+If Snake-A-Roid does well, I'll be able to upgrade the laptop and hopefully replace the desktop machine as well. Laptops come in handy due to their portability and me not knowing when and where I'll have time to work on something ( it can be during lunchtimes at work, for instance )
+
+I'm looking forward to 2018... it's been a bumpy start with the Badgers, but we're slowly getting there. The aim, as always, is to get it at least self-sufficent. Then I can actually mark down the Badgers as a success and have a bit more freedom in what we do!
+
+Hope you've had a good Christmas and the New Year treats you well!
+
+[Froak]: https://arcadebadgers.itch.io/froak
+[BlastZone]: https://arcadebadgers.itch.io/blast-zone
+[SnakeARoid]: https://arcadebadgers.itch.io/snake-a-roid
+[MiniDungeonAdventures]: https://arcadebadgers.itch.io/mini-dungeon-adventures
+[PocketPlanets]: https://arcadebadgers.itch.io/pocket-planets

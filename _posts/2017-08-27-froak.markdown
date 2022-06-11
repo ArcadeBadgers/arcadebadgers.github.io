@@ -1,0 +1,33 @@
+---
+layout: post
+author: "Steven"
+title:  "Froak"
+date:   2017-08-27 12:00:00
+categories: lowrezjam games
+---
+
+As mentioned last month, we decided to take part in this year's lowrezjam as a way of refreshing after the slight crunch of Snake-A-Roid before 4TG.
+
+We did well!
+
+[![Froak](/images/froak/logo.png)][Froak]
+
+Froak placed 57th Overall, 28th for Enjoyment and 22nd for Authenticity! Audio and Graphics were 65th and 105th respectively, which is fine as the audio was tricky to do after Snake-A-Roid's crunchy heavy chiptune soundtrack, and all the graphics were done using a laptop trackpad.. so it's a miracle they're as good as they are!
+
+It was a bit of a convoluted development on Froak as well, since originally it was going to be a single player puzzle game. Eat the flies, avoid the obstacles, and do so in the shortest amount of moves possible. However, the graphic design choices I took early on meant that I'd only have a 4x8 grid to play on... and I felt that was going to be a bit too confined to make interesting puzzles. So, it was changed to a multi-player battle party thing... collect more flies than the other frogs, bounce on their heads to slow them down, and be careful with the lily pads that slowly sink, the logs that move, and the happy snappy crocs. The big chunky graphics meant I was able to add a little bit of character to the frogs - with them smiling, getting dazed, and looking somewhat annoyed at falling into the water. It's also got the easiest multi-player setup I've done - just plug an Xbox 360 pad in, and play - be that on the browser or in the download version.
+
+It was fun to work on! There are a few issues present... the AI is slightly mental. I did the mistake of focusing on the screen space position of the fly, rather than the grid position, so the AI frogs tend to jump about more than they should. They also get slightly confused at times and can get stuck in a bad state. Something to look into cleaning up later if we go back to it.
+
+I've also started work on a little lunch time project. Technically, this was actually started a while ago but I've only just got it into something that's vaguely playable, so have started documenting it's development now. I'm calling it Blast Zone, and it'll be a Defender-style game. The idea is to keep it within the GameMaker Studio 2 trial limits as much as possible, then release the game and project for free. You really can do a lot with the trial limits... both Pocket Planets and Mini Dungeon Adventures also fit the trial limits. Froak should as well, once it's cleaned up a bit. The first bit of Blast Zone is up - you can shoot things and zip round a wrappable play area. [You can play it here.][BlastZone]
+
+So, as August wraps up, it's back onto Snake-A-Roid as the main project. Hopefully, fingers crossed, it'll be end of September for Snake-A-Roid to be released fully. There's still a fair bit to do on it, but we're getting there. The break away from it has helped, as we're able to have a look at it with fresher eyes, and see some additional issues with it.
+We also have something that we started *ages* ago that we're looking at getting out for October. It's such an old project that you could say it'll be... risen again.
+
+Finally... I've just shuffled our [itch project page][itch] around slightly to make it explicit which games are commercial offerings, free, experiments, or written for jams.
+That means that effectively, there's three sets of games which are free to play, and just one set which are being sold.. however, since that's only Snake-A-Roid, which 2.0 isn't finished yet and the legacy versions have been made free, we're actually selling nothing just now! It's all free!
+So go have a look at some of the oddities we've done over the past year, and feel free to [tweet at us][arcadebadgerstwitter] your favourites so we can gauge interest in continuing on the experiments.
+
+[Froak]: https://arcadebadgers.itch.io/froak
+[BlastZone]: https://arcadebadgers.itch.io/blast-zone
+[itch]: https://arcadebadgers.itch.io
+[arcadebadgerstwitter]: https://twitter.com/arcadebadgers

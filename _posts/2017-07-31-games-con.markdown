@@ -1,0 +1,29 @@
+---
+layout: post
+author: "Steven"
+title:  "4TG Game Con"
+date:   2017-07-31 19:00:00
+categories: business games
+---
+
+Last weekend we were up in Aberdeen at the 4TG Game Con! For some reason, they let us in with the updated Snake-A-Roid 2.0 alongside a load of other amazing Indie games.
+
+Steven has had a bit of a twitter stream [here][stream1] and [here][stream2] about some lessons to take away from this already, but we learned a lot. Most important of which is to be better prepared! We brought a printer up with us... to print out stickers and cut them out at 5am on Saturday, and then to design and print little leaflets for the Sunday as we had forgotten to make any sort of business cards, or other tidbit for information. So if you're stumbling here from 4TG - Hi! Steven is useless at keeping things up to date, but don't let that deter you!
+
+The main takeaway we got was that we haven't missed the mark with the new Snake-A-Roid. It is different from 1.0.. the colour really makes it pop, but it still can be traced back to the original Mini LD jam version and the Vectrex theme we originally went with. The power ups are more insane, and work better for it, and the Survival mode starts out easy, but gains a very satisfying power-up chaining mechanism to keep yourself alive wave after wave.
+
+Are there still bugs? Sure.
+The UI and UX could do with some tweaking. Just because we played Asteroids and Snake, doesn't mean others have. Not everyone is going to immediately get that you can wrap round the play screen. Others thought it was a twin stick shooter. Some took the snake idea to heart and tried to eat the asteroids - even when the snake is shouting things like "Rocks are bad" and "I can't eat that!" going as far to avoid the power-ups as well. Perhaps thinking they were mines? we're not quite sure, but either way, some sort of help screen to show would be a good idea - or better means of communicating to the player "this bad" and "this good"
+
+Lots of people want it on Steam. Now. Yesterday even. We reckon we had about 270-odd plays - some of which being repeat players coming back for another round or two. A few thought it would be good on the Xbox, and one thought the Vita would be where it's at. We agree there, it'd probably make a great little hand held game - but it needs the controls so mobile is likely out for the snake, as is the Vita is this is done in GameMaker Studio 2; which has no Vita support. 1.x does, but 2.0 doesn't.
+
+We are knackered, but excited about where this has gone. From a MiniLD Jam experiment, to a rushed out version last year, to a more refined version this year, Snake-A-Roid has certainly been fondly received and we can't wait to get the full game into the hands of people and see what they make of the Arena and Boss Modes that perhaps weren't quite ready to show off. Survival was, and if we do a sequel, we'll make sure that next year at 4TG ( if they let us back ) we'll have a special build for it - without all the mucking about this year!
+
+Our sincere thanks to everyone who played and gave us feedback, and spoke to us about it for any length of time. You've picked us up off the ground and given us the confidence to get Snake-A-Roid past the final post. We're aiming for an August release, but with us now just registered on Steam, we'll be adding in support for Steam's achievements and leaderboards so it may slip a bit to September. In the meantime, we will be uploading the 4TG version, for free, at the end of the week. It'll be locked to the one Survival mode level that was on show Sunday and most of Saturday ( when we directed you to it! ) but will save the high scores. This, alongside the original version from last year, should hopefully keep you going for now!
+
+Since we haven't updated in a while, we did release a LD38 game! Sortof... it didn't make it in as we didn't finish it in time. You can read more about it on the next page.
+
+And finally... we're about to take part in the Low Rez Jam 2017. Yes, doing double duty with Snake-A-Roid tidying up as well this month, but Steven needs a bit of a break. Snake-A-Roid 2.0 was actually done in just 20 days - the majority of which during July, to the point that bugs were being crushed both Saturday and Sunday morning! Steven works in mysterious ways and tends to do jams to take breaks from other work, and to test out new ideas.. so be on the lookout for a new experimental game in a couple of weeks!
+
+[stream1]: https://twitter.com/stuckieGAMEZ/status/891407855185780736
+[stream2]: https://twitter.com/stuckieGAMEZ/status/892082422938030080

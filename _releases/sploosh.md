@@ -39,4 +39,6 @@ Additional Design - Claire “Octopi” Campbell
 
 # Availability
 
-{% itch sploosh 61952 %}
+Available on [itch.io][itchio]
+
+[itchio]: https://arcadebadgers.itch.io/sploosh

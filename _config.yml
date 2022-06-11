@@ -19,7 +19,6 @@ github_username:  ArcadeBadgers
 # Build settings
 markdown: kramdown
 include: [ _pages ]
-plugins_dir: [ _plugins ]
 collections: 
   releases:
     output: true

@@ -28,7 +28,7 @@ Currently this is pencilled in to be released August 2017 and we will be showing
 
 And here's what we should've done and released last August... a trailer for Snake-A-Roid in it's current form!
 
-{% youtube dCt3cwaHmgY %}
+You can watch this on [YouTube][Youtube].
 
 
 And in other news, since this post was actually written last month, but not published... Steven took part in the 1-Bit Clicker Jam ( and almost missed out due to Chrome having a small hiccup at submission time... )
@@ -46,3 +46,4 @@ Click the logo to have a look.
 
 [4thegamers]: http://www.4thegamers.co.uk
 [MiniDungeonAdventures]: https://arcadebadgers.itch.io/mini-dungeon-adventures
+[Youtube]: https://www.youtube.com/watch?v=dCt3cwaHmgY

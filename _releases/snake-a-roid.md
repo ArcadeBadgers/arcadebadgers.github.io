@@ -37,7 +37,7 @@ The entry page for that is available [here][minild] which includes an early vers
 
 ![Boom](/images/snake-a-roid/boom.gif)
 
-{% youtube dCt3cwaHmgY %}
+Watch the Trailer on [YouTube][youtube].
 
 # Credits
 
@@ -47,6 +47,8 @@ Additional Design - Claire “Octopi” Campbell
 
 # Availability
 
-{% itch snake-a-roid 78283 %}
+Available on [itch.io][itchio]
 
 [minild]: http://ludumdare.com/compo/minild-67/?action=preview&uid=267
+[itchio]: https://arcadebadgers.itch.io/snake-a-roid
+[youtube]: https://www.youtube.com/watch?v=dCt3cwaHmgY

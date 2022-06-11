@@ -31,7 +31,8 @@ Score chaining mechanics!
 
 ![Grim!](/images/grim/screen1.png)
 ![Grim!](/images/grim/screen2.png)
-{% youtube s3Hq5NCMMgs %}
+
+Watch the Trailer on [YouTube][youtube]
 
 # Credits
 
@@ -41,4 +42,7 @@ Art, Design and Levels - Claire “Octopi” Campbell
 
 # Availability
 
-{% itch grim 7676 %}
+Available on [itch.io][itchio]
+
+[youtube]: https://www.youtube.com/watch?v=s3Hq5NCMMgs
+[itchio]: https://arcadebadgers.itch.io/grim

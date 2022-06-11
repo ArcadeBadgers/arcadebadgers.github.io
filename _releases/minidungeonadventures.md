@@ -37,6 +37,7 @@ Additional Graphics and Design - Claire “Octopi” Campbell
 
 # Availability
 
-{% itch mini-dungeon-adventures 134635 %}
+Available on [itch.io][itchio]
 
 [minild]: http://ludumdare.com/compo/minild-67/?action=preview&uid=267
+[itchio]: https://arcadebadgers.itch.io/mini-dungeon-adventures

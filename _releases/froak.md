@@ -36,4 +36,6 @@ Code, Graphics, Sound and Design - Steven “Stuckie” Campbell<br />
 
 # Availability
 
-{% itch froak 166324 %}
+Available on [itch.io][itchio]
+
+[itchio]: https://arcadebadgers.itch.io/froak

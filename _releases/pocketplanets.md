@@ -56,4 +56,6 @@ Additional Graphics - Claire “Octopi” Campbell
 
 # Availability
 
-{% itch pocket-planets 138888 %}
+Available on [itch.io][itchio]
+
+[itchio]: https://arcadebadgers.itch.io/pocket-planets

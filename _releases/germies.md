@@ -30,6 +30,6 @@ Art and Additional Design by Claire “Octopi” Campbell
 
 Availability
 
-It is available for licensing to HTML5 portals - email us on [contact@arcadebadgers.co.uk](mailto:contact@arcadebadgers.co.uk) for more information.
+Available on [itch.io][itchio]
 
-[Arcade Badgers](http://germies.arcadebadgers.co.uk) ¦ [Toon Goggles](https://itunes.apple.com/gb/app/toon-goggles-on-demand-entertainment/id491158457?mt=8)
+[itchio]: https://arcadebadgers.itch.io/germies

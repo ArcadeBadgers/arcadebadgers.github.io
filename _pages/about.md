@@ -27,9 +27,9 @@ She likes to fiddle about with Gamemaker and break anything Stuckie has done.<br
 She has been a gamer since she was 5 years old and is always trying to get her hands on the latest technology. She can usually be found gibbering away online somewhere.<br />
 She keeps things in check to ensure we don&rsquo;t over reach ourselves in terms of scope, and has the last say on what gets focused on.</p>
 
-<blockquote>Loki and Cupid</blockquote>
+<blockquote>Bowie and Piggy Stardust</blockquote>
 
-<p>Loki and Cupid are the Arcade Badgers guinea pigs.<br />
+<p>We love guinea pigs at Arcade Badgers.<br />
 They provide endless amusement as long as they are fed unlimited amounts of rocket, parsley, coriander and carrots.<br />
-Living the high life, they are effectively free-range piggies, and tend to get out to run around when they please - and show who&rsquo;s boss by scenting the living room when they don&rsquo;t get what they want.<br />
-( Where is Magni, Thor and Ragnarok? Sadly, Thor passed away on 19th September 2014, Ragnarok passed on 23rd September 2014 and Magni passed on 15th February 2017. Stuckie wrote about them here: <a href="http://stuckiegamez.co.uk/thor/">Thor</a>, <a href="http://stuckiegamez.co.uk/ragnarok/">Ragnarok</a> and <a href="http://stuckiegamez.co.uk/magni/">Magni</a>)</p>
+Living the high life, ours are effectively free-range piggies, and tend to get out to run around when they please - and show who&rsquo;s boss by scenting the living room when they don&rsquo;t get what they want.<br />
+We have had many guinea pigs over the years; Loki, Thor, Cupid, Magni and Ragnarock. Each one have had their own little personalities, and we look forward to being parsley slaves to many more!

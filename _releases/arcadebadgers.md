@@ -115,10 +115,23 @@ It just so happened that a few days after 4TG, the Low Rez Jam started. As our r
 
 Froak was certainly a much needed break, and come the end of August, we were in a much better frame of mind to go through the tasks of Snake-A-Roid and the path to getting it out on Steam, Itch and other platforms.
 
+# Pixel Beard
+
+The yearly tradition of Low Rez Jam continued with Pixel Beard. Steven kept trying to do the 7 Day Roguelike competiton, and never managed it. However, Low Rez Jam runs over two weeks, which provided enough time to give an attempt in our usual arcadey style. Pixel Beard was then thrown together - sans sound - with a bunch of mini-games providing various piratey actions.
+
+It was great fun to write, and isn't too bad to play either!
+
+# Low Rez Fish'n
+
+And now for something completely different.
+Instead of using GameMaker Studio, Steven decided to write this one in C, using SDL2, and compiling out through Emscripten to get a web build. This went a lot smoother than expected, and brought a lot of tech out of it - the main part being a small reusable engine, although again, without sound.
+
 # To the future
 
-After Snake-A-Roid, there are a couple of other things lurking about.
+In 2020, we moved house, and this time the Badgers has it's own space, rather than sharing the kitchen table. This permits us to have an area to actually work and leave things setup to return to, rather than having to tear everything down for meal times.
 
-There are the Jam games that could be cleaned up and post-compo versions released.
-Additionally, there are many projects that have been started and stopped for various reasons which could be picked up again.
-Either way, there will be something new worked on once Snake-A-Roid is out the door.
+This should mean that we can actually finish something.
+
+We have many an unfinished project sitting around, and many jam games as prototypes to test various gameplay ideas. So this is the time to start pulling things together and getting another release out.
+
+Be that Snake-A-Roid, Tiny Critters, or whatever!

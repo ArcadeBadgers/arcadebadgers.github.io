@@ -20,7 +20,7 @@ When not at their respective day jobs, they turn into Badgers at night, work off
 <li>Twitter: <a href="https://twitter.com/ArcadeBadgers" alt="Arcade Badgers">@ArcadeBadgers</a></li>
 <li>Twitter: <a href="https://twitter.com/stuckieGAMEZ" alt="Steven Campbell - stuckieGAMEZ">@stuckieGAMEZ</a></li>
 <li>Web: <a href="http://www.arcadebadgers.co.uk" alt="Arcade Badgers Website">www.arcadebadgers.co.uk</a></li>
-<li>Registered Address:<br />Arcade Badgers Limited<br />37 Yeamans Lane<br />Dundee<br />Scotland<br />DD2 3EJ</li>
+<li>Registered Address:<br />Arcade Badgers Limited<br />10 Braes of Gray Road<br />Dundee<br />Scotland<br />DD2 5FQ</li>
 </ul>
 </div>
 

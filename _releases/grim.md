@@ -27,12 +27,10 @@ Support for up to 4-player co-op!
 Three difficulty levels so everyone can play!
 Score chaining mechanics!
 
-# Screenshots and Trailer
+# Screenshots
 
 ![Grim!](/images/grim/screen1.png)
 ![Grim!](/images/grim/screen2.png)
-
-Watch the Trailer on [YouTube][youtube]
 
 # Credits
 
@@ -44,5 +42,4 @@ Art, Design and Levels - Claire “Octopi” Campbell
 
 Available on [itch.io][itchio]
 
-[youtube]: https://www.youtube.com/watch?v=s3Hq5NCMMgs
 [itchio]: https://arcadebadgers.itch.io/grim

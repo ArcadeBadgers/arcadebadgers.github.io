@@ -4,13 +4,13 @@ title: Releases
 permalink: /releases/
 categories: main
 ---
-
+<div class="grid-container">
 {% assign releases = site.releases | sort: 'published' | reverse %}
 {% for release in releases %}
 {% if true == forloop.last %} <!-- Last is the "Arcade Badgers Company Release" so ignore it -->
 {% else %}
-<div class="release">
-<h1>
+<div class="grid-item">
+<h2>
 {% assign day = release.published | date: "%-d"  %}
 {% case day %}
   {% when '1' or '21' or '31' %}{{ day }}st
@@ -19,8 +19,9 @@ categories: main
   {% else %}{{ day }}th
 {% endcase %}
 {{ release.published | date: "%B %Y" }}
-</h1>
-<a href="{{ release.url }} "><h2><img src="{{ release.banner }}" alt="{{ release.title }}"></h2></a>
+</h2>
+<a href="{{ release.url }}"><h2><img src="{{ release.banner }}" alt="{{ release.title }}"></h2></a>
 </div>
 {% endif %}
 {% endfor %}
+</div>

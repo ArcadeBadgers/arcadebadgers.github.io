@@ -26,10 +26,6 @@ So, what is in the 2.0 update?
 Currently this is pencilled in to be released August 2017 and we will be showing it off at the 4TG Game Con 2017 in Aberdeen this July.
 ( You can find more details at: [4TheGamers][4thegamers] )
 
-And here's what we should've done and released last August... a trailer for Snake-A-Roid in it's current form!
-
-You can watch this on [YouTube][Youtube].
-
 
 And in other news, since this post was actually written last month, but not published... Steven took part in the 1-Bit Clicker Jam ( and almost missed out due to Chrome having a small hiccup at submission time... )
 
@@ -46,4 +42,3 @@ Click the logo to have a look.
 
 [4thegamers]: http://www.4thegamers.co.uk
 [MiniDungeonAdventures]: https://arcadebadgers.itch.io/mini-dungeon-adventures
-[Youtube]: https://www.youtube.com/watch?v=dCt3cwaHmgY

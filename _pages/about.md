@@ -27,7 +27,7 @@ She likes to fiddle about with Gamemaker and break anything Stuckie has done.<br
 She has been a gamer since she was 5 years old and is always trying to get her hands on the latest technology. She can usually be found gibbering away online somewhere.<br />
 She keeps things in check to ensure we don&rsquo;t over reach ourselves in terms of scope, and has the last say on what gets focused on.</p>
 
-<blockquote>Bowie, Zagreus and Thanatos Piggy Stardust</blockquote>
+<blockquote>Bowie, Zagreus and Thanatos</blockquote>
 
 <p>We love guinea pigs at Arcade Badgers.<br />
 They provide endless amusement as long as they are fed unlimited amounts of rocket, parsley, coriander and carrots.<br />

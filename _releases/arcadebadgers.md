@@ -126,12 +126,14 @@ It was great fun to write, and isn't too bad to play either!
 And now for something completely different.
 Instead of using GameMaker Studio, Steven decided to write this one in C, using SDL2, and compiling out through Emscripten to get a web build. This went a lot smoother than expected, and brought a lot of tech out of it - the main part being a small reusable engine, although again, without sound.
 
-# To the future
+# Another Slump
 
 In 2020, we moved house, and this time the Badgers has it's own space, rather than sharing the kitchen table. This permits us to have an area to actually work and leave things setup to return to, rather than having to tear everything down for meal times.
 
-This should mean that we can actually finish something.
+This should have meant that we can actually finish something, but life got in the way again so the day job took precedence.
 
-We have many an unfinished project sitting around, and many jam games as prototypes to test various gameplay ideas. So this is the time to start pulling things together and getting another release out.
+That said, we still pottered away at both Germies! and Snake-A-Roid and now...
 
-Be that Snake-A-Roid, Tiny Critters, or whatever!
+# Snake-A-Roid Once More
+
+It's now coming up towards the end of 2024, and Snake-A-Roid is finally starting to get into a shape we feel it can be released in!

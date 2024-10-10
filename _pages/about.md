@@ -27,9 +27,13 @@ She likes to fiddle about with Gamemaker and break anything Stuckie has done.<br
 She has been a gamer since she was 5 years old and is always trying to get her hands on the latest technology. She can usually be found gibbering away online somewhere.<br />
 She keeps things in check to ensure we don&rsquo;t over reach ourselves in terms of scope, and has the last say on what gets focused on.</p>
 
-<blockquote>Bowie and Piggy Stardust</blockquote>
+<blockquote>Bowie, Zagreus and Thanatos Piggy Stardust</blockquote>
 
 <p>We love guinea pigs at Arcade Badgers.<br />
 They provide endless amusement as long as they are fed unlimited amounts of rocket, parsley, coriander and carrots.<br />
 Living the high life, ours are effectively free-range piggies, and tend to get out to run around when they please - and show who&rsquo;s boss by scenting the living room when they don&rsquo;t get what they want.<br />
-We have had many guinea pigs over the years; Loki, Thor, Cupid, Magni and Ragnarock. Each one have had their own little personalities, and we look forward to being parsley slaves to many more!
+We have had many guinea pigs over the years; Loki, Thor, Cupid, Magni, Ragnarok and Piggy Stardust. Each one have had their own little personalities, and we look forward to being parsley slaves to many more!</p>
+
+<blockquote>Noctis</blockquote>
+
+<p>We now also have Noctis - a mix of Border Collie, Husky and Malamute. This makes him nosey, stubborn and full of mischief... who knows what we've let ourselves in for!</p>

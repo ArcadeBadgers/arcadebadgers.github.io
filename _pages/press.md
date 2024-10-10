@@ -28,10 +28,11 @@ When not at their respective day jobs, they turn into Badgers at night, work off
 
 <!-- Now we have the actual releases in last to first -->
 <h2>Releases</h2>
+<div class="grid-container">
 {% assign releases = site.releases | sort: 'published' %}
 {% for release in releases %}
 {% if false == forloop.first %}
-<div class="release">
+<div class="grid-item">
 <h3>
 {% assign day = release.published | date: "%-d"  %}
 {% case day %}
@@ -43,12 +44,11 @@ When not at their respective day jobs, they turn into Badgers at night, work off
 {{ release.published | date: "%B %Y" }}
 </h3>
 <a href="{{ release.url }} "><img src="{{ release.banner }}" alt="{{ release.title }}"></a><br />
-{{ release.one-liner }}
-<br />
-<br />
+<h5>{{ release.one-liner }}</h5>
 </div>
 {% endif %}
 {% endfor %}
+</div>
 
 <br />
 <br />
